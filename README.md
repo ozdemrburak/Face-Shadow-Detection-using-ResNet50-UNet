@@ -75,8 +75,8 @@ Modelin bazı örnek giriş / gerçek maske / tahmin çıktıları:
 
 | Tahmin Görselleri        |
 |---------------------|----------------------|------------------------|
-| ![pred](plots_and_others/pred1.jpg) |
-| ![pred](plots_and_others/pred2.jpg) |
+| ![pred](plots_and_others/prediction.jpg) |
+| ![pred](plots_and_others/prediction_1.jpg) |
 
 ---
 
