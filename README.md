@@ -36,7 +36,7 @@ Bu mimari, klasik U-Net yapısından türetilmiş bir **U-Net benzeri (U-Net-lik
 
 Bu esneklik, mimarinin hem U-Net’in temel karakteristiklerini (örneğin skip connection yapısı) korumasını hem de uygulamaya özel gereksinimlere uyum sağlamasını mümkün kılar.
 
-![Mimari Diyagramı](./resnet50-unet.png)
+![Mimari Diyagramı](./plots_and_others/resnet50-unet.png)
 
 ---
 
@@ -74,9 +74,11 @@ Aşağıda modelin eğitim sürecinde kaydedilen **loss**, **accuracy** ve **dic
 Modelin bazı örnek giriş / gerçek maske / tahmin çıktıları:
 
 | Tahmin Görselleri        |
-|---------------------|----------------------|------------------------|
-| ![pred](plots_and_others/prediction.jpg) |
-| ![pred](plots_and_others/prediction_1.jpg) |
+|---------------------------------------------|
+| ![pred](./plots_and_others/prediction.png)  |
+| ![pred](./plots_and_others/prediction_1.png)  |
+
+
 
 ---
 
