@@ -90,6 +90,6 @@ Modelin bazı örnek giriş / gerçek maske / tahmin çıktıları:
 
 ---
 
-> 👨‍💻 Geliştiren: [Burak ÖZDEMİR]  
+> 👨‍💻 Geliştiren: **Burak ÖZDEMİR**  
 > 📌 Akademik katkı olarak sunulmuş ve deneysel sonuçlar başarıyla raporlanmıştır.
 
